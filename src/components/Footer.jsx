@@ -20,7 +20,7 @@ const Footer = () => {
           </p>
         </div>
         <div className="grid-cols-1 flex justify-center items-center">
-          <div className="flex flex-col lg:flex-row lg:gap-5 gap-3">
+          <div className="flex flex-col lg:flex-row lg:gap-5 gap-3 lg:ml-0 ml-5">
             <BsTwitter className="hover:scale-125 text-[#0B3F6B] w-[20px] lg:w-[25px] h-fit" />
             <BsInstagram className="hover:scale-125 text-[#0B3F6B] w-[20px] lg:w-[25px] h-fit" />
             <BsFacebook className="hover:scale-125 text-[#0B3F6B] w-[20px] lg:w-[25px] h-fit" />
